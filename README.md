@@ -1,10 +1,7 @@
-# CS251-Project2
+# Red Black Tree
+James Morris 3/6/2021
+
 On-line Queries on Dynamic Data Sets
 
-This Project deals with Red Black Trees and implements the following methods
-1.) Insert(Key key, Value value)
-2.) Delete(Key key)
-3.) Insert(Key key)
-4.) rank(Key key)
-5.) getValByRank(int k)
-6.) getElements(int rankLow, int rankHigh)
+This project is an implimentation of a red–black tree, which is a special type of binary search tree.
+For more information please visit https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
